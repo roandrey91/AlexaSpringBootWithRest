@@ -26,4 +26,4 @@ Your skill is now saved and once you are finished testing you can continue to pu
 ### Developer ###
 
 * Muresan Andrei Gabriel
-* andreig.muresan@fortech.ro
+* m.andreigabi91@gmai.com
