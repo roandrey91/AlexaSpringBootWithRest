@@ -1,0 +1,16 @@
+QuoteIntent quote
+QuoteIntent random quote
+QuoteIntent {Action} a quote
+QuoteIntent {Action} me a quote
+QuoteIntent {Action} random quote
+QuoteIntent {Action} a random quote
+QuoteIntent {Action} me a random quote
+ReadQuoteIntent quote 
+ReadQuoteIntent random quote 
+ReadQuoteIntent {Action} a quote 
+ReadQuoteIntent {Action} me a quote 
+ReadQuoteIntent {Action} random quote 
+ReadQuoteIntent {Action} a random quote 
+ReadQuoteIntent {Action} me a random quote 
+MathIntent multiply {x} and {y}
+MathIntent multiplication of {x} and {y}
